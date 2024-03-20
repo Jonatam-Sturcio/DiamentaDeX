@@ -1,0 +1,1 @@
+# DiamentaDeX.ConsoleApp1
